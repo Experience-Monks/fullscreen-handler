@@ -1,0 +1,24 @@
+{
+  "name": "fullscreen-handler",
+  "version": "0.0.1",
+  "description": "Cross-browser fullscreen handler utility",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Vadim Namniak",
+    "email": "vadim@jam3.com",
+    "url": "https://github.com/Jam3"
+  },
+  "keywords": [
+    "fullscreen",
+    "full-screen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git:github.com/Jam3/fullscreen-handler.git"
+  },
+  "homepage": "https://github.com/Jam3/fullscreen-handler",
+  "bugs": {
+    "url": "https://github.com/Jam3/fullscreen-handler/issues"
+  }
+}
