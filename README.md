@@ -2,17 +2,18 @@ Cross-browser fullscreen handler utility.
 Works in IE10+ and mobile browsers (Android - Chrome , iOS - Chrome + Safari)
 
 ## Syntax
+```javascript
 fullscreenHandler(element [, onEnterCallback, onExitCallback]);
+```
 
 ## API
-```enter``` - enter fullscreen
-```exit``` - exit fullscreen
-```destroy``` remove all even listeners
+* ```enter``` - enter fullscreen
+* ```exit``` - exit fullscreen
+* ```destroy``` remove all even listeners
 
 
 ## Example
 ```javascript
-
 import fullscreenHandler from 'fullscreen-handler';
 
 const video = document.querySelector('video');
