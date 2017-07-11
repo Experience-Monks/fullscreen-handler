@@ -1,4 +1,4 @@
-module.exports = function(el, onEnter, onExit,) {
+module.exports = function(el, onEnter, onExit) {
   init();
 
   function init() {

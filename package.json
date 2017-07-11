@@ -1,6 +1,6 @@
 {
   "name": "fullscreen-handler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cross-browser fullscreen handler utility",
   "main": "index.js",
   "license": "MIT",
